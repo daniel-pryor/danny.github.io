@@ -1,0 +1,42 @@
+body {
+    color: rgb(13, 14, 14);
+    background-color: rgba(145, 156, 253, 0.705) ;
+    width: 100%;
+
+}
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+table, th, td {
+    border: 2px solid rgba(11, 168, 230);
+    margin: auto;
+   
+  }
+
+th, td {
+    padding: 10px;
+}
+
+  .semantic {
+    margin: 30px;
+}
+
+  #t02 {
+      margin-bottom: 20px;
+  }
+
+  .nonsemantic {
+      margin: 40px 60px;
+  }
+
+  #note {
+      background-color: rgba(243, 165, 165, 0.753);
+      margin: 10px;
+      padding: 5px;
+  }
+  
